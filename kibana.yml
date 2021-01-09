@@ -1,0 +1,6 @@
+server.host: 0.0.0.0
+telemetry:
+  optIn: false
+  enabled: false
+xpack.security.enabled: true
+elasticsearch.hosts: ["http://elasticsearch:9200"]
